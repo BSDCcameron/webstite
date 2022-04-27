@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href = "styles.css">
+<title>Cameron Hardy Portfolio</title>
+<link rel="icon" type="image/x-icon" href="images/darkend_hell_and_B&W.ico">
+</head>
+
+<body>
+
+<div class="header">
+	<h1>Cameron Hardy</h1>
+	<h2>portfolio</h2>
+</div>
+
+</br>
+</br>
+
+<div class="nav_tools">
+	<table class="nav_table">
+		<tr>
+			<th><a href="index.html">Home Page</a></th>
+			<th><a href="about-me.html">About Me</a></th>
+			<th><a href="qualifications-and-education-history.html">Education History & Qualifications</a></th>
+			<th><a href="work-experiance.html">Work Experiance</a></th>
+			<th><a href="curent-place-of-work.html">Current Place Of Work</a></th>
+			<th><a href="contact-information.html">Contact Me</a></th>
+		</tr>
+	</table>
+</div>
+
+<div class="Qualifications">
+	<table width="100%">
+		<tr>
+			<th>Qualification</th>
+			<th>Grade Acheived</th>
+		</tr>
+		<tr>
+			<td>GCSE Mathematics</td>
+			<td>Grade 8</td>
+		</tr>
+		<tr>
+			<td>GCSE English Language</td>
+			<td>Grade 5</td>
+		</tr>
+		<tr>
+			<td>GCSE English Literature</td>
+			<td>Grade 5</td>
+		</tr>
+		<tr>
+			<td>Combined science</td>
+			<td>Grade 6-6</td>
+		</tr>
+		<tr>
+			<td>History</td>
+			<td>Grade 5</td>
+		</tr>
+		<tr>
+			<td>Sociology</td>
+			<td>Grade 5</td>
+		</tr>
+		<tr>
+			<td>Food Preperation and nutrition</td>
+			<td>Grade 7</td>
+		</tr>
+		<tr>
+			<td>Creative Imedia</td>
+			<td>Level 2 Pass</td>
+		</tr>
+		<tr>
+			<td>Computer Science</td>
+			<td>Grade 4</td>
+		</tr>
+		<tr>
+			<td>Diploma in IT User Skills</td>
+			<td>currently Working Towards this Qualification</td>
+	</table>
+</div>
+
+<div class="education_history">
+	<table width="100%">
+		<tr>
+			<th>Qualification</th>
+			<th>Where the Qualification was Achieved</th>
+		</tr>
+		<tr>
+			<td>GCSE Mathematics</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>GCSE English Language</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>GCSE English Literature</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>Combined science</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>History</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>Sociology</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>Food Preperation and nutrition</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>Creative Imedia</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>Computer Science</td>
+			<td>The Pingle Academy</td>
+		</tr>
+		<tr>
+			<td>Diploma in IT User Skills</td>
+			<td>Burton and South Derbyshire College</td>
+	</table>
+</div>
+
+</body>
+</html>

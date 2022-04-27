@@ -1,0 +1,235 @@
+body {
+	 height: 100%;
+  background-color: #7E0000; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to top, #fc6b03 , #7E0000);
+}
+
+h1 {
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+h2 {
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+p {
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px
+}
+.header {
+	font-size: 200%;
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 70%;
+	margin-left: 15%;
+	margin-top:55px;
+	padding: 40px 16px
+}
+
+.nav_tools {
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 90%;
+	margin-left: 5%;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+.image1 {
+	Width: 30%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-left: 5%;
+	display: inline-block;
+	float: left;
+	margin-bottom: 55px;
+	color: #ffffff;
+}
+
+.image2 {
+	Width: 55%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-right: 4%;
+	float: right;
+	display: inline-block;
+}
+
+.image3 {
+	Width: 55%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-right: 4%;
+	float: right;
+	display: inline-block;
+	margin-top: 4.55%;
+}
+
+.image4 {
+	Width: 60%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-left: 19%;
+	float: left;
+	display: inline-block;
+	margin-bottom: 28px;
+	color: white;
+}
+
+.image5 {
+	Width: 60%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-left: 19%;
+	float: left;
+	display: inline-block;
+	margin-bottom: 55px;
+}
+
+.Qualifications {
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 90%;
+	margin-top: 5%;
+	margin-left: 5%;
+	color: white;
+	font-size: 200%;
+}
+
+.education_history {
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 90%;
+	margin-top: 10%;
+	margin-left: 5%;
+	color: white;
+	font-size: 200%;
+}
+
+.content {
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 90%;
+	margin-left: 5%;
+	color: white;
+	font-size: 200%;
+}
+
+.image6 {
+	Width: 43%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-left: 45px;
+	margin-top: 15px;
+	float: left;
+	display: inline-block;
+	margin-bottom: 55px;
+}
+
+.image7 {
+	Width: 45%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-right: 35px;
+	margin-top: 15px;
+	float: right;
+	margin-bottom: 55px;
+}
+
+.current_work {
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 40px;
+	color: white;
+	font-size: 200%;
+}
+
+.image8 {
+	Width: 90%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-top: 2%;
+	margin-bottom: 5%;
+	margin-left: 5%;
+}
+
+.email {
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 5%;
+	color: white;
+	font-size: 200%;
+}
+
+.about_me {
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 5%;
+	color: white;
+	font-size: 150%;
+	margin-bottom:28px;
+}
+
+.contact_me {
+	text-align: center;
+	border: 5px outset grey;
+	background-color: black;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 40px;
+	color: white;
+	font-size: 150%;
+	margin-bottom:28px;
+}
+
+.image9 {
+	Width: 90%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-right: 4%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	float: right;
+	margin-bottom: 55px;
+}
+
+.nav_table {
+	width: 100%;
+}
+
+.button {
+	width:90%;
+	margin-left:5%;
+	border: 5px outset grey;
+	background-color: black;
+	margin-top: 130%;
+	text-align: center;
+	font-size: 90%
+}
